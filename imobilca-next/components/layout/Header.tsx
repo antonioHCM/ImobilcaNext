@@ -12,7 +12,7 @@ export default function Header() {
     <header className="bg-white shadow-sm sticky top-0 z-50">
       <div className="container mx-auto px-4">
         <div className="flex justify-between items-center py-4">
-          <Link href="/" className="font-bold text-xl">Stone Specialists</Link>
+          <Link href="/" className="font-bold text-xl">Imobilca</Link>
           
           {/* Mobile menu button */}
           <Button 
